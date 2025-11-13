@@ -34,6 +34,6 @@ QLabels are known as the community cards (Shared cards, dealt face up for the pl
 Poker)
 3. The user will also be able to customize and select the cards the players have
 4. The app will then calculate which player wins the hand
-For more information on the game of poker, this video explains the basic rules of poker. Our
+For more information on the game of poker, this video explains the basic rules of poker. This
 program does not include betting. Soley the determination of which hand wins.
 https://www.youtube.com/watch?v=CpSewSHZhmo&t=109s
