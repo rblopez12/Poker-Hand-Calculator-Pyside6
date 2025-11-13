@@ -22,11 +22,12 @@ calculator, where the user chooses the suit and the rank of the card. There are 
 standard deck, so when the user chooses a suit, a separate instance of ranks displays that
 include ranks from 2-10 and J-A. A reset button is on the bottom right to reset the whole
 calculator. This project is inspired from an app called Evenbet Poker Calculator by Enterra.
-4. Tools
+
+Tools
 - This project uses Python and PySide6 modules.
 - Card images are from deckofcardsapi.com
 
-Feature Tools
+Objectives
 1. While playing the game of poker, if there’s any confusion, the user can use this app to figure
 out and decide which player wins the particular hand
 2. The user will be able to specifically modify the ‘Flop’, ‘Turn’, and ‘River’ QLabels. These
